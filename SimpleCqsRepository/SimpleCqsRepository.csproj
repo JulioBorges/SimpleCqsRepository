@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Core\Cqs\" />
+    <Folder Include="Core\Data\" />
+    <Folder Include="Core\Repository\" />
+    <Folder Include="Cqs\" />
+    <Folder Include="Repository\" />
+  </ItemGroup>
+
+</Project>
